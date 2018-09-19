@@ -1,0 +1,71 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 12, 2018, 6:48:42 PM
+    Author     : Mahmoud
+*/
+body{
+    background-image:  url( img/a.png)
+}
+p{
+    color: white;
+    
+}
+h2{
+    color: white;
+}
+.flag{
+    /*background-image:  url( img/hashemite_kingdom_of_jordan.jpg) ,repeating-linear-gradient;*/
+   position: relative;
+   margin: auto;
+   height: 80%;
+    width: 80%;
+   
+}
+.flag img{
+
+    opacity: 0.3;
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+  
+}
+
+.text{
+    position: absolute;
+    top: 0;
+      font-family: 'Indie Flower', cursive;
+}
+.text1{
+    font-family: 'Indie Flower', cursive;
+}
+.flag:hover{
+    
+}
+
+.carousel{
+    width: 70%;
+    margin: auto
+        
+}
+.carousel-caption{
+    background-color: rgba(0,0,0, 0.7)
+}
+.carousel-caption p,
+.carousel-caption h3{
+    color: white;
+}
+.mansafB{
+   margin-top: -390px;
+   padding-left: 320px;
+}
+.mansafc{
+   margin-top: -390px;
+   padding-left: 640px;
+}
+.ppp{
+    background-color: rgba(0,0,0, 0.7)
+}
